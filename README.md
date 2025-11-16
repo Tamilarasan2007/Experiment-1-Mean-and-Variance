@@ -4,7 +4,6 @@ To find mean and variance of arrival objects from the feeder using probability d
 
 # Software Required: Python and Visual Components tool
 
-# Theory: 
 
 # 1. Mean (Expectation)
 
@@ -44,10 +43,10 @@ It is calculated as:
 
 13. Stop.
 
-# Name: R Tamilarasan
-# Reg_No: 25009942
-# Slot_Name: 3P1-1
-# Date: 16-11-2025
+#Name: R Tamilarasan
+#Reg_No: 25009942
+#Slot_Name: 3P1-1
+#Date: 16-11-2025
 
 # Program: 
 ```
