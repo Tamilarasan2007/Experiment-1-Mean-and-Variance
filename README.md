@@ -44,10 +44,14 @@ It is calculated as:
 
 13. Stop.
 
-# Name: R Tamilarasan
-# Reg_No: 25009942
-# Slot_Name: 3P1-1
-# Date: 16-11-2025
+# Name:
+R Tamilarasan
+# Reg_No: 
+25009942
+# Slot_Name:
+3P1-1
+# Date: 
+16-11-2025
 
 # Program: 
 ```
