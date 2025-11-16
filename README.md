@@ -4,7 +4,7 @@ To find mean and variance of arrival objects from the feeder using probability d
 
 # Software Required: Python and Visual Components tool
 
-
+# Theory:
 # 1. Mean (Expectation)
 
 The mean or expected value of a discrete random variable represents its average value, weighted by the probabilities of each possible outcome. It indicates the central tendency or typical value of the variable.
