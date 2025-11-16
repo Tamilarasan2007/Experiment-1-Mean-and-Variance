@@ -43,11 +43,11 @@ It is calculated as:
 12. Display the Mean, Variance, and Standard Deviation of arrivals.
 
 13. Stop.
-# Student_Info:
-Name: R Tamilarasan
-Reg_No: 25009942
-Slot_Name: 3P1-1
-Date: 16-11-2025
+
+# Name: R Tamilarasan
+# Reg_No: 25009942
+# Slot_Name: 3P1-1
+# Date: 16-11-2025
 
 # Program: 
 ```
